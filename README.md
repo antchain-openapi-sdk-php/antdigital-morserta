@@ -1,13 +1,13 @@
 English | [简体中文](README-CN.md)
 
-# Ant Chain antdigital-MORSERTA SDK for PHP
+# Ant Chain ABC SDK for PHP
 
 ## Installation
 
 ### Composer
 
 ```bash
-composer require antchain/morserta
+composer require antchain/antdigital-MORSERTA
 ```
 
 ## Issues
